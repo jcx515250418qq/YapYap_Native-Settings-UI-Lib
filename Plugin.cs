@@ -24,7 +24,7 @@ namespace Yap_NativeSettingsUI
         {
             instance = this;
             Log = Logger;
-            Log.LogInfo("Yap Native Settings UI plugin initialized!.");
+            Log.LogInfo("Yap Native Settings UI plugin initialized!.!");
             NativeSettingsUI.InternalInitialize(this);
             SceneManager.sceneLoaded += OnSceneLoaded;
             OnSceneLoaded(SceneManager.GetActiveScene(), LoadSceneMode.Single);
