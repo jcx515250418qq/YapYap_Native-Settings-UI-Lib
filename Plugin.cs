@@ -377,7 +377,7 @@ namespace Yap_NativeSettingsUI
             if (content != null)
             {
                 return content;
-            }
+        }
 
             content = root.Find("Canvas/InGameMenu/Settings/UISettings/Window/Content");
             if (content != null)
