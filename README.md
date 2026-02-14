@@ -4,10 +4,20 @@
 
 ---
 
+Thunderstore: https://thunderstore.io/c/yapyap/p/XiaohaiMod/Native_Settings_UI_Lib/
+GitHub: https://github.com/jcx515250418qq/YapYap_Native-Settings-UI-Lib
+
 ## 仓库结构
 
 - 库源码：`YapYap_Native-Settings-UI-Lib/`
 - 使用例程（包含所有组件）：`YapYap_Native-Settings-UI-Demo/`
+
+## 更新日志
+
+- 2026-02-15
+  - 修复 UI 注入路径：适配新 UI 结构与对象名，增加多路径回退
+  - 更新 DLL 引用 HintPath：解决编译引用路径问题
+  - 新增示例项目：YapYap_Native-Settings-UI-Demo 覆盖所有常用控件
 
 ## 简体中文
 
