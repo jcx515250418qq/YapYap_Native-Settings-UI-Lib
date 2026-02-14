@@ -4,8 +4,8 @@
 
 ---
 
-Thunderstore: https://thunderstore.io/c/yapyap/p/XiaohaiMod/Native_Settings_UI_Lib/
-GitHub: https://github.com/jcx515250418qq/YapYap_Native-Settings-UI-Lib
+- **Thunderstore**: [Native_Settings_UI_Lib](https://thunderstore.io/c/yapyap/p/XiaohaiMod/Native_Settings_UI_Lib/)
+- **GitHub**: [YapYap_Native-Settings-UI-Lib](https://github.com/jcx515250418qq/YapYap_Native-Settings-UI-Lib)
 
 ## 仓库结构
 
